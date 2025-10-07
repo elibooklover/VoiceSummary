@@ -10,7 +10,7 @@ VoiceSummary makes it easy to stay productive and focused. With seamless AI tran
 * Share your notes and audio files instantly via email, messages, or cloud storage.
 * All your recordings and notes are stored securely on your device.
 
-![Screenshot1](https://elibooklover.github.io/VoiceSummary/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/VoiceSummary/Screenshot2.png) 
+<p align="center"> <img src="https://elibooklover.github.io/VoiceSummary/Screenshot1.png" width="45%" /> <img src="https://elibooklover.github.io/VoiceSummary/Screenshot2.png" width="45%" /> </p>
 
 For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
 
