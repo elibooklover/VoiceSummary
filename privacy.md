@@ -1,47 +1,36 @@
-# Terms & Conditions for VoiceSummary
+---
+permalink: /privacy.html
+---
+# Privacy Policy for VoiceSummary
 
-## 1. Introduction
+**Last updated: November 25, 2026**
 
-These Terms and Conditions ("Terms") govern your access to and use of the VoiceSummary mobile application ("App"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
+## Information handled by the app
 
-## 2. License to Use
+VoiceSummary records audio at your request and creates transcripts and AI summaries. Recordings and notes are stored on your device. Microphone access is used to record audio. You can manage microphone and speech recognition permissions, where applicable, in device settings.
 
-We grant you a non-exclusive, non-transferable, revocable license to download and install the App on your personal mobile device and to use the App for your personal purpose. You may not sublicense, rent, lease, or distribute the App.
+## Speech recognition and AI processing
 
-## 3. No Data Collection
+Audio and text are processed to provide transcription and summarization. Depending on the device, system settings and speech recognition capabilities, Apple system services may process information under Apple's privacy practices. Local storage does not necessarily mean every processing operation takes place offline. See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
-We do not collect, store, or transmit any personal data or information from users of the App. The App does not access your contacts, location, or other sensitive data stored on your device.
+## Purchases
 
-## 4. Prohibited Conduct
+Optional Premium purchases are handled by Apple's App Store. The app uses purchase entitlement information to enable purchased features. We do not directly receive your full payment card details.
 
-You may not use the App for any illegal or unauthorized purpose. You may not:
+## Sharing and support
 
-Reverse engineer, decompile, or disassemble the App.
-Modify, hack, or exploit the App.
-Distribute or transmit any viruses or other harmful code through the App.
-Use the App to infringe on the intellectual property rights of others.
-Spam or harass other users of the App.
+If you choose to share a note or audio file, the recipient and selected sharing service may receive that content. Their privacy practices apply. If you contact support, we receive the information you choose to provide and use it to respond to your request.
 
-## 5. Termination
+## Retention and deletion
 
-We may terminate your access to the App at any time and for any reason, without notice. We may also remove the App from the App Store at any time.
+You can delete recordings and notes using the app's available controls. Device backups or copies you have shared may remain subject to your device or service settings. Support correspondence may be retained as needed to resolve your request or comply with legal obligations.
 
-## 6. Disclaimer of Warranties
+## Your choices and rights
 
-THE APP IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WE DISCLAIM ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+You can manage permissions in device settings and contact us to request access to, correction of, or deletion of personal information we hold, subject to applicable law. No method of storage is completely secure.
 
-## 7. Limitation of Liability
+## Changes and contact
 
-WE SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP. THIS INCLUDES, BUT IS NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, AND PUNITIVE DAMAGES.
+We may update this policy and publish a revised date. Contact [appdeveloperkim@gmail.com](mailto:appdeveloperkim@gmail.com) with privacy questions.
 
-## 8. Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of laws provisions.
-
-## 9. Entire Agreement
-
-These Terms constitute the entire agreement between you and us with respect to the App.
-
-## 10. Contact Us
-
-If you have any questions about these Terms, please contact [us](mailto:appdeveloperkim@gmail.com).
+[Home](./) · [Terms & Conditions](terms.html)

@@ -1,17 +1,18 @@
 # VoiceSummary
 
-VoiceSummary is your intelligent voice note companion — record, transcribe, and summarize your thoughts with the power of AI. Capture ideas effortlessly and turn them into clear, organized summaries you can review or share anytime.
+**Capture more. Remember what matters.**
 
-VoiceSummary makes it easy to stay productive and focused. With seamless AI transcription and summarization, your spoken words become structured notes ready for study, meetings, or brainstorming sessions.
+Record voice notes, transcribe speech into text, and generate AI summaries for meetings, lectures and everyday ideas.
 
-* Record your voice with a simple tap — perfect for ideas, lectures, and meetings.
-* Automatically transcribe recordings into accurate, editable text.
-* Generate concise AI summaries highlighting key points.
-* Share your notes and audio files instantly via email, messages, or cloud storage.
-* All your recordings and notes are stored securely on your device.
+[Visit the official website](https://elibooklover.github.io/VoiceSummary/)
 
-<p align="center"> <img src="https://elibooklover.github.io/VoiceSummary/Screenshot1.png" width="45%" /> <img src="https://elibooklover.github.io/VoiceSummary/Screenshot2.png" width="45%" /> </p>
+## Features
 
-For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
+- Record and review voice notes.
+- Transcribe recordings into editable text.
+- Generate AI summaries.
+- Translate, re-transcribe, and export notes where available.
 
-If you need support or have requests, please contact [us](mailto:appdeveloperkim@gmail.com).
+<p align="center"><img src="Screenshot1.png" alt="Recording and transcription" width="260"> <img src="Screenshot2.png" alt="AI meeting summary" width="260"></p>
+
+[Privacy Policy](https://elibooklover.github.io/VoiceSummary/privacy.html) · [Terms & Conditions](https://elibooklover.github.io/VoiceSummary/terms.html) · [Support](mailto:appdeveloperkim@gmail.com)
